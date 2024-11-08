@@ -12,3 +12,4 @@ Parameter Flexibility: Allows tuning for various road conditions and vehicle par
 # Results
 Simulation results show vehicle stopping behavior with and without ABS.
 ![image](https://github.com/user-attachments/assets/9011b2a1-145b-48fe-b090-8bf630576c3a)
+![image](https://github.com/user-attachments/assets/6a215a88-b796-4d1f-8edb-673c5036f139)
